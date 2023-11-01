@@ -20,11 +20,11 @@ export const DEFAULT_BASE_SETTINGS: GlobalBaseSettings = {
 export const DEFAULT_AGENT_CONFIG: LobeAgentConfig = {
   displayMode: 'chat',
   historyCount: 1,
-  model: LanguageModel.GPT3_5,
+  model: LanguageModel.GPT4,
   params: {
     frequency_penalty: 0,
     presence_penalty: 0,
-    temperature: 0.6,
+    temperature: 0.5,
     top_p: 1,
   },
   plugins: [],
