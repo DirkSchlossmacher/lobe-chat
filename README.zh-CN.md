@@ -110,7 +110,7 @@ LobeChat 是一个开源的、可扩展的（[Function Calling][fc-link]）高�
 
 #### `1` Function Calling 插件系统
 
-通过构建强大的插件生态，ChatGPT 不仅能够实时获取最新新闻，还能助你一臂之力，轻松查询文档、访问各大电商数据。这使得 ChatGPT 在更广泛的领域中发挥其关键作用。如果你对编写插件有所兴趣，我们在下文的 🧩 插件体系 中提供了详尽的组件开发文档、SDK、以及样板文件，让我们一起让助手变得更加好用和强大～
+通过构建强大的插件生态，ChatGPT 不仅能够实时获取最新新闻，还能助你一臂之力，轻松查询文档、访问各大电商数据。这使得 ChatGPT 在更广泛的领域中发挥其关键作用。如果你对编写插件有所兴趣，我们在下文的 [🧩 插件体系](#-插件体系) 中提供了详尽的组件开发文档、SDK、以及样板文件，让我们一起让助手变得更加好用和强大～
 
 <br/>
 
@@ -271,7 +271,7 @@ $ docker run -d -p 3210:3210 \
 
 ## 📦 生态系统
 
-| NPM                             | 代码库                                | 描述                                                                                                  | 版本                                    |
+| NPM                             | 仓库                                  | 描述                                                                                                  | 版本                                    |
 | ------------------------------- | ------------------------------------- | ----------------------------------------------------------------------------------------------------- | --------------------------------------- |
 | [@lobehub/ui][lobe-ui-link]     | [lobehub/lobe-ui][lobe-ui-github]     | Lobe UI 是一个专为构建 AIGC 网页应用程序而设计的开源 UI 组件库。                                      | [![][lobe-ui-shield]][lobe-ui-link]     |
 | [@lobehub/lint][lobe-lint-link] | [lobehub/lobe-lint][lobe-lint-github] | LobeLint 为 LobeHub 提供 ESlint，Stylelint，Commitlint，Prettier，Remark 和 Semantic Release 的配置。 | [![][lobe-lint-shield]][lobe-lint-link] |
@@ -301,12 +301,12 @@ $ docker run -d -p 3210:3210 \
 
 <!-- PLUGIN LIST -->
 
-| 官方插件                                                            | 插件说明                   |
-| ------------------------------------------------------------------- | -------------------------- |
-| [时钟时间](https://github.com/lobehub/chat-plugin-clock-time)       | 显示一个时钟来展示当前时间 |
-| [网站爬虫](https://github.com/lobehub/chat-plugin-web-crawler)      | 从网页链接中提取内容       |
-| [搜索引擎](https://github.com/lobehub/chat-plugin-search-engine)    | 查询搜索引擎以获取信息     |
-| [实时天气](https://github.com/lobehub/chat-plugin-realtime-weather) | 获取实时天气信息           |
+| 官方插件                                                                                                    | 仓库                                                                                            | 插件描述                                     |
+| ----------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | -------------------------------------------- |
+| [时钟时间](https://chat-preview.lobehub.com/settings/agent)<br/><sup>By **LobeHub** on **2023-11-01**</sup> | [lobehub/chat-plugin-clock-time](https://github.com/lobehub/chat-plugin-clock-time)             | 显示一个时钟来展示当前时间<br/>`时钟` `时间` |
+| [网站爬虫](https://chat-preview.lobehub.com/settings/agent)<br/><sup>By **LobeHub** on **2023-08-17**</sup> | [lobehub/chat-plugin-web-crawler](https://github.com/lobehub/chat-plugin-web-crawler)           | 从网页链接中提取内容<br/>`网页` `内容爬取器` |
+| [搜索引擎](https://chat-preview.lobehub.com/settings/agent)<br/><sup>By **LobeHub** on **2023-08-15**</sup> | [lobehub/chat-plugin-search-engine](https://github.com/lobehub/chat-plugin-search-engine)       | 查询搜索引擎以获取信息<br/>`网络` `搜索`     |
+| [实时天气](https://chat-preview.lobehub.com/settings/agent)<br/><sup>By **LobeHub** on **2023-08-12**</sup> | [lobehub/chat-plugin-realtime-weather](https://github.com/lobehub/chat-plugin-realtime-weather) | 获取实时天气信息<br/>`天气` `实时`           |
 
 > 📊 Total plugins: [<kbd>**4**</kbd>](https://github.com/lobehub/lobe-chat-plugins)
 
