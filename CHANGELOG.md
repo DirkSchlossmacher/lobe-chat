@@ -2,6 +2,101 @@
 
 # Changelog
 
+### [Version 0.100.3](https://github.com/lobehub/lobe-chat/compare/v0.100.2...v0.100.3)
+
+<sup>Released on **2023-11-09**</sup>
+
+#### 🐛 Bug Fixes
+
+- **misc**: Fix market error.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's fixed
+
+- **misc**: Fix market error ([3d7550c](https://github.com/lobehub/lobe-chat/commit/3d7550c))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 0.100.2](https://github.com/lobehub/lobe-chat/compare/v0.100.1...v0.100.2)
+
+<sup>Released on **2023-11-09**</sup>
+
+#### 🐛 Bug Fixes
+
+- **misc**: Upgrade viewport for nextjs 14.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's fixed
+
+- **misc**: Upgrade viewport for nextjs 14, closes [#436](https://github.com/lobehub/lobe-chat/issues/436) ([57d3d07](https://github.com/lobehub/lobe-chat/commit/57d3d07))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 0.100.1](https://github.com/lobehub/lobe-chat/compare/v0.100.0...v0.100.1)
+
+<sup>Released on **2023-11-09**</sup>
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+## [Version 0.100.0](https://github.com/lobehub/lobe-chat/compare/v0.99.1...v0.100.0)
+
+<sup>Released on **2023-11-09**</sup>
+
+#### ✨ Features
+
+- **hotkeys**: Compatible with SSR, display platform specific key.
+- **misc**: Platform check utils.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's improved
+
+- **hotkeys**: Compatible with SSR ([99fa4f8](https://github.com/lobehub/lobe-chat/commit/99fa4f8))
+- **hotkeys**: Display platform specific key ([ee332a4](https://github.com/lobehub/lobe-chat/commit/ee332a4))
+- **misc**: Platform check utils ([08a3cb9](https://github.com/lobehub/lobe-chat/commit/08a3cb9))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
 ### [Version 0.99.1](https://github.com/lobehub/lobe-chat/compare/v0.99.0...v0.99.1)
 
 <sup>Released on **2023-11-08**</sup>
